@@ -1,0 +1,288 @@
+{
+	"length": {
+		"meter": {
+			"symbol": "m",
+			"rate": 1.0
+		},
+		"kilometer": {
+			"symbol": "km",
+			"rate": 1000.0
+		},
+		"centimeter": {
+			"symbol": "cm",
+			"rate": 0.01
+		},
+		"millimeter": {
+			"symbol": "mm",
+			"rate": 0.001
+		},
+		"mile": {
+			"symbol": "mi",
+			"rate": 1609.344
+		},
+		"yard": {
+			"symbol": "yd",
+			"rate": 0.9144
+		},
+		"foot": {
+			"symbol": "ft",
+			"rate": 0.3048
+		},
+		"inch": {
+			"symbol": "in",
+			"rate": 0.0254
+		},
+		"里": {
+			"symbol": "里",
+			"rate": 500.0
+		},
+		"丈": {
+			"symbol": "丈",
+			"rate": 3.33
+		},
+		"尺": {
+			"symbol": "尺",
+			"rate": 0.333
+		},
+		"寸": {
+			"symbol": "寸",
+			"rate": 0.0333
+		},
+		"分": {
+			"symbol": "分",
+			"rate": 0.00333
+		},
+		"light-year": {
+			"symbol": "ly",
+			"rate": 9.4607304725808e15
+		},
+		"parsec": {
+			"symbol": "pc",
+			"rate": 3.085677581e16
+		},
+		"astronomical unit": {
+			"symbol": "AU",
+			"rate": 149597870700
+		},
+		"micrometer": {
+			"symbol": "µm",
+			"rate": 1e-6
+		},
+		"nanometer": {
+			"symbol": "nm",
+			"rate": 1e-9
+		},
+		"angstrom": {
+			"symbol": "Å",
+			"rate": 1e-10
+		},
+		"picometer": {
+			"symbol": "pm",
+			"rate": 1e-12
+		},
+		"femtometer": {
+			"symbol": "fm",
+			"rate": 1e-15
+		}
+	},
+	"weight": {
+		"kilogram": {
+			"symbol": "kg",
+			"rate": 1
+		},
+		"gram": {
+			"symbol": "g",
+			"rate": 0.001
+		},
+		"metric ton": {
+			"symbol": "t",
+			"rate": 1000
+		},
+		"jin (臺斤)": {
+			"symbol": "斤",
+			"rate": 0.6
+		},
+		"pound": {
+			"symbol": "lb",
+			"rate": 0.453592
+		},
+		"ounce": {
+			"symbol": "oz",
+			"rate": 0.0283495
+		},
+		"stone": {
+			"symbol": "st",
+			"rate": 6.35029
+		},
+		"liang (兩)": {
+			"symbol": "兩",
+			"rate": 0.05
+		},
+		"qian (錢)": {
+			"symbol": "錢",
+			"rate": 0.005
+		},
+		"guan (貫)": {
+			"symbol": "貫",
+			"rate": 3.75
+		},
+		"dan (擔)": {
+			"symbol": "擔",
+			"rate": 50
+		},
+		"shi (石)": {
+			"symbol": "石",
+			"rate": 60
+		}
+	},
+	"volume": {
+		"cubic meter": {
+			"symbol": "m^3",
+			"rate": 1000
+		},
+		"liter": {
+			"symbol": "L",
+			"rate": 1
+		},
+		"milliliter": {
+			"symbol": "mL",
+			"rate": 0.001
+		},
+		"cubic foot": {
+			"symbol": "ft^3",
+			"rate": 28.3168
+		},
+		"cubic inch": {
+			"symbol": "in^3",
+			"rate": 0.0163871
+		},
+		"gallon": {
+			"symbol": "gal",
+			"rate": 3.78541
+		},
+		"pint": {
+			"symbol": "pt",
+			"rate": 0.473176
+		},
+		"fluid ounce": {
+			"symbol": "fl oz",
+			"rate": 0.0295735
+		},
+		"sheng (升)": {
+			"symbol": "升",
+			"rate": 1
+		},
+		"ge (合)": {
+			"symbol": "合",
+			"rate": 0.1
+		},
+		"shao (勺)": {
+			"symbol": "勺",
+			"rate": 0.01
+		}
+	},
+	"time": {
+		"second": {
+			"symbol": "s",
+			"rate": 1
+		},
+		"minute": {
+			"symbol": "min",
+			"rate": 60
+		},
+		"hour": {
+			"symbol": "hr",
+			"rate": 3600
+		},
+		"day": {
+			"symbol": "day",
+			"rate": 86400
+		},
+		"week": {
+			"symbol": "wk",
+			"rate": 604800
+		},
+		"month": {
+			"symbol": "mon",
+			"rate": 2629800
+		},
+		"year": {
+			"symbol": "yr",
+			"rate": 31557600
+		},
+		"millisecond": {
+			"symbol": "ms",
+			"rate": 0.001
+		},
+		"microsecond": {
+			"symbol": "μs",
+			"rate": 1e-6
+		},
+		"nanosecond": {
+			"symbol": "ns",
+			"rate": 1e-9
+		},
+		"century": {
+			"symbol": "c",
+			"rate": 3155760000
+		},
+		"ke (刻)": {
+			"symbol": "刻",
+			"rate": 864.0
+		},
+		"shichen (時辰)": {
+			"symbol": "時辰",
+			"rate": 7200
+		}
+	},
+	"area": {
+		"平方公尺": {
+			"symbol": "m²",
+			"rate": 1.0
+		},
+		"坪": {
+			"symbol": "坪",
+			"rate": 3.305785
+		},
+		"平方公里": {
+			"symbol": "km²",
+			"rate": 1000000
+		},
+		"平方公分": {
+			"symbol": "cm²",
+			"rate": 0.0001
+		},
+		"公頃": {
+			"symbol": "ha",
+			"rate": 10000
+		},
+		"甲": {
+			"symbol": "甲",
+			"rate": 29340
+		},
+		"分": {
+			"symbol": "分",
+			"rate": 2934
+		},
+		"平方英尺": {
+			"symbol": "ft²",
+			"rate": 0.09290304
+		},
+		"平方英寸": {
+			"symbol": "in²",
+			"rate": 0.00064516
+		},
+		"英畝": {
+			"symbol": "acre",
+			"rate": 4046.8564224
+		},
+		"平方英里": {
+			"symbol": "mi²",
+			"rate": 2589988.110336
+		},
+		"公畝": {
+			"symbol": "a",
+			"rate": 100
+		}
+	}
+}
